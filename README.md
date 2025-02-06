@@ -27,23 +27,23 @@ $$
 1. Clone the repository:
    
    ```diff
-   - git clone https://github.com/ridika-2004/Ghibli-Clock.git
-   - cd Ghibli-Clock
+   git clone https://github.com/ridika-2004/Ghibli-Clock.git
+   cd Ghibli-Clock
    ```
 
 2. Install the required dependencies:
    ```diff
-   + pip install pyinstaller
+   pip install pyinstaller
    ```
 
 3. Run the application:
    ```diff
-   ! python main.py
+   python main.py
    ```
    
 4. Or, create an executable file using PyInstaller:
    ```diff
-   @@ pyinstaller main.py --onefile --windowed @@
+   pyinstaller main.py --onefile --windowed
    ```
 
 ## $\color{green}{FEATURES}$
