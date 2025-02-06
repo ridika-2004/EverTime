@@ -5,9 +5,7 @@
 
 
 
-$$
-\textnormal{\color{black}A digital clock and date display app built with Python and Tkinter as executable.}
-$$
+$$\textnormal{\color{black}A digital clock and date display app built with Python and Tkinter as executable.}$$
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white" alt="Python">
@@ -17,12 +15,13 @@ $$
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6521037e-5feb-46da-88c7-387e5a40d796" alt="Screenshot" width=500>
+  <img src="https://github.com/user-attachments/assets/6521037e-5feb-46da-88c7-387e5a40d796" alt="Screenshot" width=400>
 </p>
 
 
 
-## $\color{purple}{INSTALLATION}$
+<h1 align="center"> $\textnormal{\color{purple}{INSTALLATION}}$ </h1>
+
 
 1. Clone the repository:
    
@@ -46,16 +45,20 @@ $$
    pyinstaller --onefile --windowed --add-data "assets;assets" main.py
    ```
 
-## $\color{green}{FEATURES}$
-  - Displays current time in 12-hour format (with AM/PM)
-  - Shows the current day and date
+<h1 align="center"> $\textnormal{\color{green}{FEATURES}}$ </h1>
+<ul>
+  <li>$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</li>
+  <li>$$\textnormal{\color{black}Shows the current day and date.}$$</li>
+</ul>
 
 
-## $\color{blue}{CREDITS}$
-  - Built using Python 3.x and Tkinter
-  - Background images and icons are all made by me.
+<h1 align="center"> $\textnormal{\color{blue}{CREDITS}}$ </h1>
+<ul>
+  <li>$$\textnormal{\color{black}Built using Python 3.x and Tkinter.}$$</li>
+  <li>$$\textnormal{\color{black}Background images and icons are all made by me.}$$</li>
+</ul>
 
 
-## $\color{red}{LICENSE}$
-  ${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$
+<h1 align="center"> $\textnormal{\color{red}{LICENSE}}$ </h1>
+<p align="center">${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$</p>
 
