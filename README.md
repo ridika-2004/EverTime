@@ -43,7 +43,7 @@ $$
    
 4. Or, create an executable file using PyInstaller:
    ```diff
-   pyinstaller main.py --onefile --windowed
+   pyinstaller --onefile --windowed --add-data "assets;assets" main.py
    ```
 
 ## $\color{green}{FEATURES}$
