@@ -1,4 +1,9 @@
-# $\Huge\textnormal{\color{orange}Ghibli}\-\textnormal\{\color{red}Clock}$
+<h1 align="center">
+  $\Huge\textnormal{\color{orange}Ghibli}-\textnormal{\color{red}Clock}$
+  <img src="https://github.com/user-attachments/assets/3231f155-4be5-4d20-b3c7-1b5be898f6d5" alt="Screenshot" width="100" style="vertical-align: middle;">
+</h1>
+
+
 
 $$
 \textnormal{\color{black}A digital clock and date display app built with Python and Tkinter as executable.}
