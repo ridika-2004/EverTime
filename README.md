@@ -22,7 +22,7 @@ $$
 
 
 
-## $\color{blue}{INSTALLATION}$
+## $\color{purple}{INSTALLATION}$
 
 1. Clone the repository:
    
@@ -51,11 +51,11 @@ $$
   - Shows the current day and date
 
 
-## $\color{red}{CREDITS}$
+## $\color{blue}{CREDITS}$
   - Built using Python 3.x and Tkinter
   - Background images and icons are all made by me.
 
 
-## $\color{blue}{LICENSE}$
+## $\color{red}{LICENSE}$
   ${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$
 
