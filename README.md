@@ -5,8 +5,16 @@ $$
 $$
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=python&logoColor=white" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Anime-Ghibli-green?logo=anime&logoColor=white" alt="Ghibli">
+</p>
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/6521037e-5feb-46da-88c7-387e5a40d796" alt="Screenshot" width=500>
 </p>
+
 
 
 ## $\color{blue}{INSTALLATION}$
