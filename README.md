@@ -21,7 +21,10 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 
 <br><br>
 
-<h1 align="center"> $\textnormal{\color{purple}{INSTALLATION}}$ </h1>
+<h1 align="center"> 
+  <img src="https://github.com/user-attachments/assets/9f02ebcf-3ecf-4919-bf67-228531195aa4" alt="Screenshot" width="60" style="vertical-align: middle;">
+  $\textnormal{\color{purple}{INSTALLATION}}$
+</h1>
 
 
 1. Clone the repository:
@@ -53,7 +56,10 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 
 <br><br>
 
-<h1 align="center"> $\textnormal{\color{green}{FEATURES}}$ </h1>
+<h1 align="center"> 
+  $\textnormal{\color{green}{FEATURES}}$ 
+</h1>
+
 <ul>
   <li>$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</li>
   <li>$$\textnormal{\color{black}Shows the current day and date.}$$</li>
