@@ -48,8 +48,8 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 
 <br><br>
 
-<p align="center"> $\huge\textnormal{\color{blue}{Then in the dist folder, There will be a main.exe file. Double-click on that and BOOM!
-  You get the application}}$ </p>
+<p align="center"> $\textnormal{\color{blue}{Then in the {\color{red}dist} folder, There will be a main.exe file.}}$ </p>
+<p align="center">$\textnormal{\color{blue}{Double-click on that and {\color{red}BOOM!}}}$ </p>
 
 <br><br>
 
