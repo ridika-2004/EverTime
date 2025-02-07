@@ -25,10 +25,6 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
   $\textnormal{\color{purple}{INSTALLATION}}$
 </h1>
 
-<img src="https://github.com/user-attachments/assets/9f02ebcf-3ecf-4919-bf67-228531195aa4" alt="Screenshot" width="100" align="right" style="vertical-align: bottom;">
-
-<br><br><br>
-
 
 1. Clone the repository:
    
@@ -57,13 +53,14 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 <p align="center"> $\textnormal{\color{blue}{Then in the {\color{red}dist} folder, There will be a main.exe file.}}$ </p>
 <p align="center">$\textnormal{\color{blue}{Double-click on that and {\color{red}BOOM!}}}$ </p>
 
+  <img src="https://github.com/user-attachments/assets/18d6e794-e2af-420d-900f-81bae86ff802" alt="Screenshot" width="70" align="left" >
+  
 <br><br>
 <h1 align="center"> 
   $\textnormal{\color{green}{FEATURES}}$ 
 </h1>
 
-  <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="250" align="right" style="vertical-align: bottom;" >
-
+  
 
 <ul>
   <li>$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</li>
@@ -76,7 +73,7 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
   $\textnormal{\color{blue}{CREDITS}}$ 
 </h1>
 
-
+  <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" >
 
 <ul>
   <li>$$\textnormal{\color{black}Built using Python 3.x and Tkinter.}$$</li>
