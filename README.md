@@ -22,9 +22,12 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 <br><br>
 
 <h1 align="center"> 
-  <img src="https://github.com/user-attachments/assets/9f02ebcf-3ecf-4919-bf67-228531195aa4" alt="Screenshot" width="60" style="vertical-align: middle;">
   $\textnormal{\color{purple}{INSTALLATION}}$
 </h1>
+
+<img src="https://github.com/user-attachments/assets/9f02ebcf-3ecf-4919-bf67-228531195aa4" alt="Screenshot" width="100" align="right" style="vertical-align: bottom;">
+
+<br><br><br>
 
 
 1. Clone the repository:
@@ -55,10 +58,12 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 <p align="center">$\textnormal{\color{blue}{Double-click on that and {\color{red}BOOM!}}}$ </p>
 
 <br><br>
-
 <h1 align="center"> 
   $\textnormal{\color{green}{FEATURES}}$ 
 </h1>
+
+  <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="250" align="right" style="vertical-align: bottom;" >
+
 
 <ul>
   <li>$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</li>
@@ -67,7 +72,12 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 
 <br><br>
 
-<h1 align="center"> $\textnormal{\color{blue}{CREDITS}}$ </h1>
+<h1 align="left"> 
+  $\textnormal{\color{blue}{CREDITS}}$ 
+</h1>
+
+
+
 <ul>
   <li>$$\textnormal{\color{black}Built using Python 3.x and Tkinter.}$$</li>
   <li>$$\textnormal{\color{black}Background images and icons are all made by me.}$$</li>
@@ -76,5 +86,6 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 <br><br>
 
 <h1 align="center"> $\textnormal{\color{red}{LICENSE}}$ </h1>
+<img src="https://github.com/user-attachments/assets/271ea3eb-346c-4487-9ff8-a93ab30e90eb" alt="Screenshot" width="150" align="left" style="vertical-align: bottom;" >
 <p align="center">${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$</p>
 
