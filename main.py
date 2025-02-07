@@ -17,7 +17,7 @@ def update():
     window.after(1000, update)  # Schedule next update
 
 window = Tk()
-window.title("Ghibli Clock")
+window.title("EverTime")
 
 # Get the path to the folder where the script is located or the bundled location
 base_path = getattr(sys, '_MEIPASS', os.path.abspath(os.path.dirname(__file__)))

@@ -1,4 +1,4 @@
-('E:\\Ghibli Clock\\build\\main\\PYZ-00.pyz',
+('E:\\EverTime\\build\\main\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\nazni\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
