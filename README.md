@@ -1,17 +1,17 @@
-<h1 align="center">
+<h1 align="center" font-style="bold">
   $\Huge\textnormal{\color{orange}Ever}\textnormal{\color{red}Time}$
-  <img src="https://github.com/user-attachments/assets/3231f155-4be5-4d20-b3c7-1b5be898f6d5" alt="Screenshot" width="100" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/8a9c99d1-40a1-406a-b925-8ebfb28d4111" alt="Screenshot" width="100" style="vertical-align: middle;">
 </h1>
-
-
-
-$$\textnormal{\color{black}A digital clock and date display app built with Python and Tkinter as executable.}$$
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=python&logoColor=white" alt="Tkinter">
-  <img src="https://img.shields.io/badge/Anime-Ghibli-green?logo=anime&logoColor=white" alt="Ghibli">
+  <img src="https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white" alt="Python" width=150>
+  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=python&logoColor=white" alt="Tkinter" width=170>
+  <img src="https://img.shields.io/badge/Anime-Ghibli-green?logo=anime&logoColor=white" alt="Ghibli" width=150>
 </p>
+
+<br><br>
+
+$$\textnormal{\color{black}A digital clock and date display app built with Python and Tkinter as executable for desktop.}$$
+
 
 
 <p align="center">
@@ -53,18 +53,18 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 <p align="center"> $\textnormal{\color{blue}{Then in the {\color{red}dist} folder, There will be a main.exe file.}}$ </p>
 <p align="center">$\textnormal{\color{blue}{Double-click on that and {\color{red}BOOM!}}}$ </p>
 
-  <img src="https://github.com/user-attachments/assets/18d6e794-e2af-420d-900f-81bae86ff802" alt="Screenshot" width="70" align="left" >
+
   
 <br><br>
-<h1 align="center"> 
+<h1 align="right"> 
   $\textnormal{\color{green}{FEATURES}}$ 
 </h1>
 
-  
+<img src="https://github.com/user-attachments/assets/18d6e794-e2af-420d-900f-81bae86ff802" alt="Screenshot" width="70" align="left" />  
 
-<ul>
-  <li>$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</li>
-  <li>$$\textnormal{\color{black}Shows the current day and date.}$$</li>
+<ul align="right">
+  <p align= "right">$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</p>
+  <p align= "right">$$\textnormal{\color{black}Shows the current day and date.}$$</p>
 </ul>
 
 <br><br>
@@ -73,16 +73,16 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
   $\textnormal{\color{blue}{CREDITS}}$ 
 </h1>
 
-  <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" >
-
-<ul>
-  <li>$$\textnormal{\color{black}Built using Python 3.x and Tkinter.}$$</li>
-  <li>$$\textnormal{\color{black}Background images and icons are all made by me.}$$</li>
+  <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" />
+<br><br>
+<ul align="left">
+<p>$$\textnormal{\color{black}Built using Python 3.x and Tkinter.}$$</p>
+<p>$$\textnormal{\color{black}Background images and icons are all made by me.}$$</p>
 </ul>
 
 <br><br>
 
-<h1 align="center"> $\textnormal{\color{red}{LICENSE}}$ </h1>
-<img src="https://github.com/user-attachments/assets/271ea3eb-346c-4487-9ff8-a93ab30e90eb" alt="Screenshot" width="150" align="left" style="vertical-align: bottom;" >
-<p align="center">${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$</p>
+<h1 align="right"> $\textnormal{\color{red}{LICENSE}}$ </h1>
+<img src="https://github.com/user-attachments/assets/271ea3eb-346c-4487-9ff8-a93ab30e90eb" alt="Screenshot" width="150" align="left" style="vertical-align: bottom;" />
+<p align="right">${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$</p>
 
