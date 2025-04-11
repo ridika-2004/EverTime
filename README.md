@@ -2,11 +2,11 @@
   $\Huge\textnormal{\color{orange}Ever}\textnormal{\color{red}Time}$
   <img src="https://github.com/user-attachments/assets/8a9c99d1-40a1-406a-b925-8ebfb28d4111" alt="Screenshot" width="100" style="vertical-align: middle;">
 </h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white" alt="Python" width=150>
-  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=python&logoColor=white" alt="Tkinter" width=170>
-  <img src="https://img.shields.io/badge/Anime-Ghibli-green?logo=anime&logoColor=white" alt="Ghibli" width=150>
-</p>
+
+![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-%2300A896?style=for-the-badge)
+![Ghibli](https://img.shields.io/badge/Theme-Ghibli-orange?style=for-the-badge)
+![Project Statu](https://img.shields.io/badge/Project-Active-green?style=for-the-badge)
 
 <br><br>
 
