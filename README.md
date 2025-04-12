@@ -61,12 +61,12 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
   <summary align="center">
     <h1>$\textnormal{\color{lightskyblue}{CREDITS}}$</h1>
   </summary>
-<img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" />
-<br><br>
-<ul align="left">
+<img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" /><br><br><br>
+
 <p>$$\textnormal{Built using Python 3.x and Tkinter.}$$</p>
 <p>$$\textnormal{Background images and icons are all made by me.}$$</p>
-</ul>
+<p>$$\textnormal{Shows current date and time.}$$</p>
+
 </details>
 
 <h1 align="center"> $\textnormal{\color{red}{LICENSE}}$ </h1>
