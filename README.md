@@ -69,7 +69,7 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
 </ul>
 </details>
 
-<h1 align="right"> $\textnormal{\color{red}{LICENSE}}$ </h1>
+<h1 align="center"> $\textnormal{\color{red}{LICENSE}}$ </h1>
 <img src="https://github.com/user-attachments/assets/271ea3eb-346c-4487-9ff8-a93ab30e90eb" alt="Screenshot" width="150" align="left" style="vertical-align: bottom;" />
 <p align="right">${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$</p>
 
