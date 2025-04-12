@@ -50,19 +50,16 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
     <h1>$\textnormal{\color{greenyellow}{FEATURES}}$ </h1>
   </summary>
 
-<img src="https://github.com/user-attachments/assets/6d4ead3c-1523-44ba-a82e-406ce0eda5a8" alt="Screenshot" width="160" align="left" />
+<img src="https://github.com/user-attachments/assets/bba205fb-3c7f-4661-aca1-e6202c784538" alt="Screenshot" width="70" align="left" /><br>
 
-
-<ul align="right">
-  <p align= "right">$$\textnormal{Displays current time in 12-hour format (with AM/PM).}$$</p>
-  <p align= "right">$$\textnormal{Shows the current day and date.}$$</p>
-</ul>
+<p align= "right">$$\textnormal{Displays current time in 12-hour format (with AM/PM).}$$</p>
+<p align= "right">$$\textnormal{Shows the current day and date.}$$</p>
 
 </details>
 
 <details>
   <summary align="center">
-    <h1>$\textnormal{\color{blue}{CREDITS}}$</h1>
+    <h1>$\textnormal{\color{lightskyblue}{CREDITS}}$</h1>
   </summary>
 <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" />
 <br><br>
@@ -70,7 +67,6 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
 <p>$$\textnormal{Built using Python 3.x and Tkinter.}$$</p>
 <p>$$\textnormal{Background images and icons are all made by me.}$$</p>
 </ul>
-
 </details>
 
 <h1 align="right"> $\textnormal{\color{red}{LICENSE}}$ </h1>
