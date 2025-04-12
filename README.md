@@ -3,28 +3,20 @@
   <img src="https://github.com/user-attachments/assets/8a9c99d1-40a1-406a-b925-8ebfb28d4111" alt="Screenshot" width="100" style="vertical-align: middle;">
 </h1>
 
-![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-%2300A896?style=for-the-badge)
+![Python](https://img.shields.io/badge/Language-Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Library-Tkinter-%2300A896?style=for-the-badge)
 ![Ghibli](https://img.shields.io/badge/Theme-Ghibli-orange?style=for-the-badge)
 ![Project Statu](https://img.shields.io/badge/Project-Active-green?style=for-the-badge)
 
-<br><br>
-
-$$\textnormal{\color{black}A digital clock and date display app built with Python and Tkinter as executable for desktop.}$$
-
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6521037e-5feb-46da-88c7-387e5a40d796" alt="Screenshot" width=400>
-</p>
+  <img src="https://github.com/user-attachments/assets/6521037e-5feb-46da-88c7-387e5a40d796" alt="Screenshot" width=300>
+</p><br>
 
-
-<br><br>
+$$\textnormal{A digital clock and date display app built with Python and Tkinter as executable for desktop.}$$
 
 <h1 align="center"> 
-  $\textnormal{\color{purple}{INSTALLATION}}$
+  $\textnormal{\color{magenta}{INSTALLATION}}$
 </h1>
-
 
 1. Clone the repository:
    
@@ -63,8 +55,8 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
 <img src="https://github.com/user-attachments/assets/18d6e794-e2af-420d-900f-81bae86ff802" alt="Screenshot" width="70" align="left" />  
 
 <ul align="right">
-  <p align= "right">$$\textnormal{\color{black}Displays current time in 12-hour format (with AM/PM).}$$</p>
-  <p align= "right">$$\textnormal{\color{black}Shows the current day and date.}$$</p>
+  <p align= "right">$$\textnormal{Displays current time in 12-hour format (with AM/PM).}$$</p>
+  <p align= "right">$$\textnormal{Shows the current day and date.}$$</p>
 </ul>
 
 <br><br>
@@ -76,8 +68,8 @@ $$\textnormal{\color{black}A digital clock and date display app built with Pytho
   <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" />
 <br><br>
 <ul align="left">
-<p>$$\textnormal{\color{black}Built using Python 3.x and Tkinter.}$$</p>
-<p>$$\textnormal{\color{black}Background images and icons are all made by me.}$$</p>
+<p>$$\textnormal{Built using Python 3.x and Tkinter.}$$</p>
+<p>$$\textnormal{Background images and icons are all made by me.}$$</p>
 </ul>
 
 <br><br>
