@@ -14,9 +14,10 @@
 
 $$\textnormal{A digital clock and date display app built with Python and Tkinter as executable for desktop.}$$
 
-<h1 align="center"> 
-  $\textnormal{\color{magenta}{INSTALLATION}}$
-</h1>
+<details>
+  <summary align="center">
+    <h1> $\textnormal{\color{magenta}{INSTALLATION}}$</h1>
+  </summary>
 
 1. Clone the repository:
    
@@ -39,40 +40,38 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
    ```diff
    pyinstaller --onefile --windowed --add-data "assets;assets" main.py
    ```
-
-<br><br>
-
 <p align="center"> $\textnormal{\color{blue}{Then in the {\color{red}dist} folder, There will be a main.exe file.}}$ </p>
 <p align="center">$\textnormal{\color{blue}{Double-click on that and {\color{red}BOOM!}}}$ </p>
 
+</details>
 
-  
-<br><br>
-<h1 align="right"> 
-  $\textnormal{\color{green}{FEATURES}}$ 
-</h1>
+<details>
+  <summary align="center">
+    <h1>$\textnormal{\color{greenyellow}{FEATURES}}$ </h1>
+  </summary>
 
-<img src="https://github.com/user-attachments/assets/18d6e794-e2af-420d-900f-81bae86ff802" alt="Screenshot" width="70" align="left" />  
+<img src="https://github.com/user-attachments/assets/6d4ead3c-1523-44ba-a82e-406ce0eda5a8" alt="Screenshot" width="160" align="left" />
+
 
 <ul align="right">
   <p align= "right">$$\textnormal{Displays current time in 12-hour format (with AM/PM).}$$</p>
   <p align= "right">$$\textnormal{Shows the current day and date.}$$</p>
 </ul>
 
-<br><br>
+</details>
 
-<h1 align="left"> 
-  $\textnormal{\color{blue}{CREDITS}}$ 
-</h1>
-
-  <img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" />
+<details>
+  <summary align="center">
+    <h1>$\textnormal{\color{blue}{CREDITS}}$</h1>
+  </summary>
+<img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" />
 <br><br>
 <ul align="left">
 <p>$$\textnormal{Built using Python 3.x and Tkinter.}$$</p>
 <p>$$\textnormal{Background images and icons are all made by me.}$$</p>
 </ul>
 
-<br><br>
+</details>
 
 <h1 align="right"> $\textnormal{\color{red}{LICENSE}}$ </h1>
 <img src="https://github.com/user-attachments/assets/271ea3eb-346c-4487-9ff8-a93ab30e90eb" alt="Screenshot" width="150" align="left" style="vertical-align: bottom;" />
