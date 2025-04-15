@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/8a9c99d1-40a1-406a-b925-8ebfb28d4111" alt="Screenshot" width="100" style="vertical-align: middle;">
 </h1>
 
-![Python](https://img.shields.io/badge/Language-Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-ED8B00?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Library-Tkinter-%2300A896?style=for-the-badge)
 ![Ghibli](https://img.shields.io/badge/Theme-Ghibli-orange?style=for-the-badge)
 ![Project Statu](https://img.shields.io/badge/Project-Active-green?style=for-the-badge)
@@ -52,8 +52,9 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
 
 <img src="https://github.com/user-attachments/assets/bba205fb-3c7f-4661-aca1-e6202c784538" alt="Screenshot" width="70" align="left" /><br>
 
-<p align= "right">$$\textnormal{Displays current time in 12-hour format (with AM/PM).}$$</p>
-<p align= "right">$$\textnormal{Shows the current day and date.}$$</p>
+<p align= "right">$$\textnormal{Displays the current day and date.}$$</p>
+<p align= "right">$$\textnormal{12-hour formatted time (with AM/PM).}$$</p>
+<p align= "right">$$\textnormal{A ghibli themed background.}$$</p>
 
 </details>
 
@@ -65,7 +66,8 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
 
 <p>$$\textnormal{Built using Python 3.x and Tkinter.}$$</p>
 <p>$$\textnormal{Background images and icons are all made by me.}$$</p>
-<p>$$\textnormal{Shows current date and time.}$$</p>
+<p>$$\textnormal{Syncs the current date and time from the local machine.}$$</p>
+<p>$$\textnormal{Includes various stickers from Pinterest.}$$</p>
 
 </details>
 
