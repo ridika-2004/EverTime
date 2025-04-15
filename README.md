@@ -40,8 +40,8 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
    ```diff
    pyinstaller --onefile --windowed --add-data "assets;assets" main.py
    ```
-<p align="center"> $\textnormal{\color{blue}{Then in the {\color{red}dist} folder, There will be a main.exe file.}}$ </p>
-<p align="center">$\textnormal{\color{blue}{Double-click on that and {\color{red}BOOM!}}}$ </p>
+<br><p align="center"> $\textnormal{{Then in the {\color{red}dist} folder, There will be a main.exe file.}}$ </p>
+<p align="center">$\textnormal{{Double-click on that and {\color{red}BOOM!}}}$ </p>
 
 </details>
 
