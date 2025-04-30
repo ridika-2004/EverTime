@@ -12,10 +12,10 @@
   <img src="https://github.com/user-attachments/assets/6521037e-5feb-46da-88c7-387e5a40d796" alt="Screenshot" width=300>
 </p><br>
 
-$$\textnormal{A digital clock and date display app built with Python and Tkinter as executable for desktop.}$$
+A digital clock and date display app built with Python and Tkinter as executable for desktop.
 
 <details>
-  <summary align="center">
+  <summary>
     <h1> $\textnormal{\color{magenta}{INSTALLATION}}$</h1>
   </summary>
 
@@ -45,33 +45,16 @@ $$\textnormal{A digital clock and date display app built with Python and Tkinter
 
 </details>
 
-<details>
-  <summary align="center">
-    <h1>$\textnormal{\color{greenyellow}{FEATURES}}$ </h1>
-  </summary>
+<h1>$\textnormal{\color{greenyellow}{FEATURES}}$</h1>
 
-<img src="https://github.com/user-attachments/assets/bba205fb-3c7f-4661-aca1-e6202c784538" alt="Screenshot" width="70" align="left" /><br>
+<p>This system displays the current day and date along with the time in a 12-hour format, including AM/PM. Also features a Studio Ghibli-themed background to create a visually appealing and whimsical user experience.</p>
 
-<p align= "right">$$\textnormal{Displays the current day and date.}$$</p>
-<p align= "right">$$\textnormal{12-hour formatted time (with AM/PM).}$$</p>
-<p align= "right">$$\textnormal{A ghibli themed background.}$$</p>
+<h1>$\textnormal{\color{lightskyblue}{CREDITS}}$</h1>
 
-</details>
+<p>Built using Python 3.x and Tkinter, this project syncs the current date and time from the local machine. All background images and icons are original creations, complemented by a variety of stickers sourced from Pinterest for the visuals.</p>
 
-<details>
-  <summary align="center">
-    <h1>$\textnormal{\color{lightskyblue}{CREDITS}}$</h1>
-  </summary>
-<img src="https://github.com/user-attachments/assets/15163489-35b0-4f81-aa32-e4a444784c46" alt="Screenshot" width="200" align="right" /><br><br><br>
 
-<p>$$\textnormal{Built using Python 3.x and Tkinter.}$$</p>
-<p>$$\textnormal{Background images and icons are all made by me.}$$</p>
-<p>$$\textnormal{Syncs the current date and time from the local machine.}$$</p>
-<p>$$\textnormal{Includes various stickers from Pinterest.}$$</p>
-
-</details>
-
-<h1 align="center"> $\textnormal{\color{red}{LICENSE}}$ </h1>
+<h1> $\textnormal{\color{red}{LICENSE}}$ </h1>
 <img src="https://github.com/user-attachments/assets/271ea3eb-346c-4487-9ff8-a93ab30e90eb" alt="Screenshot" width="150" align="left" style="vertical-align: bottom;" />
 <p align="right">${This\ project\ is\ licensed\ under\ the \ {\color{red}MIT}}\ License$</p>
 
