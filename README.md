@@ -15,7 +15,7 @@
 A digital clock and date display app built with Python and Tkinter as executable for desktop.
 
 <details>
-  <summary>
+  <summary align="right">
     <h1> $\textnormal{\color{magenta}{INSTALLATION}}$</h1>
   </summary>
 
@@ -49,7 +49,7 @@ A digital clock and date display app built with Python and Tkinter as executable
 
 <p>This system displays the current day and date along with the time in a 12-hour format, including AM/PM. Also features a Studio Ghibli-themed background to create a visually appealing and whimsical user experience.</p>
 
-<h1>$\textnormal{\color{lightskyblue}{CREDITS}}$</h1>
+<h1 align="right">$\textnormal{\color{lightskyblue}{CREDITS}}$</h1>
 
 <p>Built using Python 3.x and Tkinter, this project syncs the current date and time from the local machine. All background images and icons are original creations, complemented by a variety of stickers sourced from Pinterest for the visuals.</p>
 
